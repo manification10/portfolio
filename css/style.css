@@ -556,10 +556,10 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
   position: fixed;
   z-index: 1;
   bottom: 0;
-  height: 300px;
   background: #F1F6F8;
   width: 100%;
   left: 0;
+  height: 100px;
   padding-top: 100px;
   text-align: center;
 }

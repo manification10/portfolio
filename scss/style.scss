@@ -488,11 +488,10 @@ a {
 	position: fixed;
 	z-index: 1;
 	bottom: 0;
-	height: 300px;
 	background: #F1F6F8;
 	width: 100%;
 	left: 0;
-	padding-top: 100px;
+	padding-top: 10px;
 	text-align: center;
 	@media screen and (max-width: $screen-sm) {
 		position: relative;
