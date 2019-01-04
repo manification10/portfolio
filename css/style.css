@@ -587,7 +587,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .probootstrap-section-half .probootstrap-image, .probootstrap-section-half .probootstrap-text {
-  height: 100vh;
+  height: 150vh;
   width: 50%;
   -webkit-transition: .3s all ease;
   transition: .3s all ease;
